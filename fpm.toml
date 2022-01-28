@@ -1,0 +1,12 @@
+name = "modintde"
+version = "0.1.0"
+license = "???"
+author = "Takuya OOURA"
+maintainer = "freevryheid@gmail.com"
+copyright = "Copyright(C) 1996 Takuya OOURA (email: ooura@mmm.t.u-tokyo.ac.jp)"
+[build]
+auto-executables = true
+auto-tests = true
+auto-examples = true
+[install]
+library = false
